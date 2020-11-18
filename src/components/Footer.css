@@ -1,8 +1,10 @@
 .footer{
     position: absolute;
      height:10vh;
-    background-color: black;
-    color: aliceblue;
+    background-color: rgb(185, 192, 202);
+    font-size: initial;
+    font-style: unset;
+    color: rgb(4, 6, 7);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     display: flex;
