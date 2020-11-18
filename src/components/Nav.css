@@ -1,0 +1,11 @@
+.Nav{
+    grid-column: 2/2;
+}
+
+.Title{
+    text-align: justify;
+}
+
+.Home{
+    padding-bottom: 30px;
+}

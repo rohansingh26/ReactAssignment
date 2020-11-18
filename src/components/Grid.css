@@ -1,0 +1,7 @@
+.Grid{display: grid;
+gap: 20px;
+grid-template-columns: 2fr 1fr;
+height:80vh;
+text-align: center;
+align-items: center;
+}

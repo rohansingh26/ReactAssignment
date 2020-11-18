@@ -1,0 +1,10 @@
+.Body{
+    grid-column: 1/2;
+
+}
+
+.Item{
+    padding-bottom: 10px;
+
+    word-wrap: break-word;
+}
